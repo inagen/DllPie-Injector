@@ -34,4 +34,4 @@ BOOL APIENTRY DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
 }
 ```
 #### demonstration
-![image](img/demo.gif)
+![image](img/demo.PNG)
